@@ -1,4 +1,4 @@
-# GitLab MCP Server for InfraGenie
+# GitLab MCP Server
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zereight/gitlab-mcp&type=Date)](https://www.star-history.com/#zereight/gitlab-mcp&Date)
 
